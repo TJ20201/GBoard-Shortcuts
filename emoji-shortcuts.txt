@@ -1,0 +1,11 @@
+# Gboard Dictionary version:1
+\green_square 🟩
+\green_circle 🟢
+\red_square 🟥
+\red_circle 🔴
+\orange_square 🟧
+\orange_circle 🟠
+\yellow_square 🟨
+\yellow_circle 🟡
+\blue_square 🟦
+\blue_circle 🔵
