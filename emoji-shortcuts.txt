@@ -7,5 +7,5 @@
 \orange_circle 🟠
 \yellow_square 🟨
 \yellow_circle 🟡
-\blue_square 🟦
+\blue_square 🟦 
 \blue_circle 🔵
